@@ -4,6 +4,8 @@
 
 No **Honey Hunt**, você controla um personagem que precisa **coletar flores** enquanto **foge de uma abelha!** 🐝
 
+![Honey Hunt Screenshot](screen.png)
+
 ### Como Jogar:
 - **Colete flores** para ganhar pontos 🌸
 - **Evite a abelha** 🐝, ela vai tentar te pegar!
