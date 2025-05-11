@@ -12,9 +12,3 @@ No **Honey Hunt**, você controla um personagem que precisa **coletar flores** e
 - **Seja rápido** e **fique vivo** para conquistar a vitória! 🏆
 
 👉 **Jogue agora e veja se consegue escapar da abelha!** 🎉
-
-🔗 [Clique aqui para jogar](#) (Adicione o link se disponível)
-
-
-
-**Vamos ver até onde você consegue chegar!** 🚀
